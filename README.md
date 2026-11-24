@@ -2,6 +2,10 @@
 
 > Repositório didático: site responsivo criado em sala de aula no SENAI para praticar HTML e CSS.
 
+## Acesse online
+
+Site publicado no GitHub Pages: **[https://fabcurvello.github.io/siteresponsivosenai/](https://fabcurvello.github.io/siteresponsivosenai/)**
+
 ## Sobre o projeto
 
 Site **Estudo Com Café**, com dicas para organizar a rotina de estudos. O foco do exercício é fazer o mesmo site se adaptar a telas de celular e de computador.
